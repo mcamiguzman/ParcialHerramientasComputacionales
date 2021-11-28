@@ -4,7 +4,8 @@
 donde se puede comprar mas de una unidad. Adicionalmente se impemento el mismo obljetivo para el caso de diferentes productos con distintas unidades.
 ***
  -- Se resuelve en un codigo de Python depurando acciones en funciones y utlilizando listas para guardar datos.
- ### orden de entradas
+ ***
+ ### Orden de entradas
  
  * Numero de identidad del usuario
  * Rol: estudiante o profesor (string)
