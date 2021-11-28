@@ -13,5 +13,5 @@ donde se puede comprar mas de una unidad. Adicionalmente se impemento el mismo o
  * Unidades del pruducto(int)
  * Precio del producto.
 ***
- -- el codigo imprime: el rol + "con numero de identidad" + numero de identidad + "debe pagar" + resultados final
+ -- el codigo imprime: el rol + "con numero de identidad" + numero de identidad + "debe pagar" + resultados final ------->
 ej: estudiante con nuemro de identidad 556656566 debe pagar 7300
